@@ -1,10 +1,9 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE)
 <p align="center">
-  <img alt="Icon" src="https://rubmu.github.io/images/icon.png">
-  <h1 align="center">Zero Project</h1>
-  <p align="center">Проекты для <br><br>
-    <a href="http://forthebadge.com"><img alt="forthebadge" src="https://rubmu.github.io/images/love.svg"></a>
-  <a href="http://forthebadge.com"><img alt="forthebadge" src="https://rubmu.github.io/images/js.svg"></a>
+  <img alt="Icon" src="https://rubmu.github.io/screenshots/elements/icon.png">
+  <h1 align="center">Elements</h1>
+  <p align="center">A desktop App which displays the periodic table<br><br>
+    <a href="http://forthebadge.com"><img alt="forthebadge" src="http://forthebadge.com/images/badges/built-with-love.svg"></a>
+  <a href="http://forthebadge.com"><img alt="forthebadge" src="http://forthebadge.com/images/badges/uses-js.svg"></a>
   </p>
 </p>
 
@@ -67,4 +66,4 @@ npm run-script dist
 </table>
 
 ## 📖 License
-copyright &copy; 2019-2020 @RUBMU, license by [MIT](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE)
+[![forthebadge](http://forthebadge.com/images/badges/cc-0.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
