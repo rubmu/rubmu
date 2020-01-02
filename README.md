@@ -67,8 +67,4 @@ npm run-script dist
 </table>
 
 ## 📖 License
-copyright &copy; 2019-2020 @RUBMU, license by [MIT](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE)
-<div class="donate">
-    <a href="/contact/">Обратная связь</a>
-    <a href="https://money.yandex.ru/to/41001299480137"><i class="fas fa-ruble-sign"></i> Отправить донат</a>
-</div>
+copyright &copy; 2019-2020 @RUBMU, license by [MIT](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE
