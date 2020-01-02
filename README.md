@@ -67,4 +67,4 @@ npm run-script dist
 </table>
 
 ## 📖 License
-copyright &copy; 2019-2020 @RUBMU, license by [MIT](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE
+copyright &copy; 2019-2020 @RUBMU, license by [MIT](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE)
