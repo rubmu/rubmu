@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE)
 <p align="center">
   <img alt="Icon" src="https://rubmu.github.io/images/icon.png">
   <h1 align="center">Zero Project</h1>
@@ -76,7 +77,8 @@ npm run-script dist
 </table>
 
 ## 📖 License
-[![forthebadge](http://forthebadge.com/images/badges/cc-0.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+copyright &copy; 2019-2020 @RUBMU, license by [MIT](https://github.com/scopewu/qrcode.vue/blob/master/LICENSE)
 <div class="donate">
+    <a href="/contact/">Обратная связь</a>
     <a href="https://money.yandex.ru/to/41001299480137"><i class="fas fa-ruble-sign"></i> Отправить донат</a>
 </div>
