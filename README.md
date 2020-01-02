@@ -31,39 +31,7 @@ npm run-script dist
 
 ## 🖼 Preview
 
-![screenshot 1](https://florianfe.github.io/screenshots/elements/screenshot-1.png)
-![screenshot 2](https://florianfe.github.io/screenshots/elements/screenshot-2.png)
-![screenshot 3](https://florianfe.github.io/screenshots/elements/screenshot-3.png)
-
-## 💾 Download
-
-<table align="center">
-  <tr>
-    <th>Platform</th>
-    <th>Version</th>
-    <th>Download</td>
-  </tr>
-  <tr>
-    <td>Mac</td>
-    <td>1.1.6</td>
-    <td><a href="https://github.com/FlorianFe/Elements/releases/download/v1.1.6/Elements.dmg">Download</a></td>
-  </tr>
-  <tr>
-    <td>Windows</td>
-    <td>1.1.6</td>
-    <td><a href="https://github.com/FlorianFe/Elements/releases/download/v1.1.6/Elements.exe">Download</a></td>
-  </tr>
-  <tr>
-    <td>Linux (.deb)</td>
-    <td>1.1.6</td>
-    <td><a href="https://github.com/FlorianFe/Elements/releases/download/v1.1.6/Elements.deb">Download</a></td>
-  </tr>
-  <tr>
-    <td>Linux (.AppImage)</td>
-    <td>1.1.6</td>
-    <td><a href="https://github.com/FlorianFe/Elements/releases/download/v1.1.6/Elements.AppImage">Download</a></td>
-  </tr>
-</table>
-
-## 📖 License
-[![forthebadge](http://forthebadge.com/images/badges/cc-0.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+<div id="copyright">
+      &copy; 2013-2019 decodeit.ru<br/>
+      <a href="/contact/">Обратная связь</a>
+</div>
