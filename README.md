@@ -9,16 +9,6 @@
 </p>
 
 <br><br>
-<a href="" name="getting-started"></a>
-<div class="wrapper docs">
-  <div class="grid w12">
-    <div>
-      <div class="header-section">
-        <h2>Information</h2>
-        <h3>To help get you started</h3>
-      </div>
-    </div>
-  </div>
 
 ## 📝 Source Code
 
