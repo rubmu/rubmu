@@ -32,6 +32,6 @@ npm run-script dist
 ## 🖼 Copyright
 
 <div id="copyright">
-      &copy; 2013-2019 decodeit.ru<br/>
+      &copy; 2019-2020 decodeit.ru<br/>
       <a href="/contact/">Обратная связь</a>
 </div>
