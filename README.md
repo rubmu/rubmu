@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="Icon" src="https://rubmu.github.io/screenshots/elements/icon.png">
   <h1 align="center">Elements</h1>
-  <p align="center">A desktop App which displays the periodic table<br><br>
+  <p align="center">A WebApp which displays the equipment description<br><br>
     <a href="http://forthebadge.com"><img alt="forthebadge" src="http://forthebadge.com/images/badges/built-with-love.svg"></a>
   <a href="http://forthebadge.com"><img alt="forthebadge" src="http://forthebadge.com/images/badges/uses-js.svg"></a>
   </p>
@@ -9,7 +9,7 @@
 
 <br><br>
 
-## 📝 Source Code
+## 📝 Equipment Description
 
 In order to use this source code you need to have Node.js, Git and Bower installed globally. After that you have to follow the steps below.
 
@@ -29,7 +29,7 @@ npm run-script dist
 ```
 
 
-## 🖼 Preview
+## 🖼 Copyright
 
 <div id="copyright">
       &copy; 2013-2019 decodeit.ru<br/>
